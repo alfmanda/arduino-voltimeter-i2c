@@ -8,3 +8,5 @@ SDA -> A4
 SCL -> A5
 
 Voltage analog sensor -> A0
+
+![image](https://user-images.githubusercontent.com/81776458/113356849-38cd4280-9343-11eb-94c2-87d68332861d.png)
